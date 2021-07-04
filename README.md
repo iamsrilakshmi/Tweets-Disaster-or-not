@@ -12,24 +12,30 @@ Predict which Tweets are about Real Disaster and which ones are not
 
 	Programming language :
   Python 3
+  
 	Data Manipulation :
- Pandas
-Numpy
+ Pandas, 
+Numpy, 
 Spacy 
+
 	Data Visualisation :
- Seaborn 
+ Seaborn,
  Plotly
+ 
 	Machine Learning: 
-Tensorflow 
-Tensorflow_hub 
+Tensorflow,
  Keras
+ 
 Evaluation:
  Scikit-Learn
 
 
 3. DATA COLLECTION :
-Link to the the Dataset
+
 3 Files :
+
 train.csv
+
 test.csv
+
 sample_submission.csv
