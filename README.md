@@ -4,6 +4,7 @@
 
  1.1. Statement : 
 Predict which Tweets are about Real Disaster and which ones are not
+
 1.2. Analysis :
 	This is a Binary Classification problem with text data as the input, hence we’ll be using NLP.
   
@@ -26,7 +27,7 @@ Spacy
 Tensorflow,
  Keras
  
-Evaluation:
+	Evaluation:
  Scikit-Learn
 
 
